@@ -60,6 +60,14 @@ const config: Config = {
           '4': 'hsl(var(--chart-4))',
           '5': 'hsl(var(--chart-5))',
         },
+        navy: {
+          DEFAULT: 'hsl(var(--navy))',
+          light: 'hsl(var(--navy-light))',
+        },
+        emerald: {
+          DEFAULT: 'hsl(var(--emerald))',
+          light: 'hsl(var(--emerald-light))',
+        },
       },
       keyframes: {
         'accordion-down': {
